@@ -1,12 +1,19 @@
 ## 부기푸드입니다 👋
 
-<!--
+## 팀명
 
-**Here are some ideas to get you started:**
+- Insight
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br>
+
+## 프로젝트명
+<div align="center">
+![mainlogo](https://github.com/user-attachments/assets/e7335821-5067-4baf-b7c7-bb7a8431c97a)
+</div>
+- 부기푸드
+
+
+<br>
+
+
+
